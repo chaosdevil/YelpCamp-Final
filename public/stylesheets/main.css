@@ -1,0 +1,22 @@
+img {
+	width: 100%;
+}
+
+.img-thumbnail {
+	padding: 0;
+}
+
+.btn-group-xs > .btn, .btn-xs {
+  padding: .25rem .4rem;
+  font-size: .875rem;
+  line-height: .5;
+  border-radius: .2rem;
+}
+
+.delete-form {
+	display: inline;
+}
+
+#delete-form {
+	display: inline;
+}
